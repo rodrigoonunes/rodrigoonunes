@@ -1,7 +1,3 @@
-<body style="background-color: red;">sdadasdsa</body>
-
-
-
 
 ![alt text](https://github.com/rodrigonuness/rodrigonuness/blob/master/image.png)
 
