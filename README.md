@@ -1,4 +1,5 @@
-# http://rodrigonuness.github.io/index.html
+
+![alt text](https://github.com/rodrigonuness/rodrigonuness/blob/master/image.png)
 
 ### Hi, I'm Rodrigo Nunes!  💜
 
@@ -8,17 +9,17 @@
 🇧🇷 Living in Recife, Brasil
 
 ### 🚀 My stacks 💙
-  - NodeJS
-      - ReactJS
-          - Javascript
-              - React Native  
-          - html & css 
-      - ElectronJS 
-  - Python 
+  - NodeJS <img src="https://nodejs.org/static/images/favicons/favicon.ico" width="16">
+      - ReactJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="20">
+          - Javascript <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Javascript.png" width="16">
+              - React Native <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ReactJS.png" width="20">
+          - html & css <img src="https://github.com/rodrigonuness/language_pictures/blob/master/html&css.png" width="28">
+      - ElectronJS <img src="https://github.com/rodrigonuness/language_pictures/blob/master/ElectronJS.png" width="20">
+  - Python <img src="https://github.com/rodrigonuness/language_pictures/blob/master/Python.png" width="16">
 
 ### I love ❤️
 - programing 💻
 - javascript 💛
 - coffe ☕
 - music 🎶
- 
+
